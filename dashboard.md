@@ -2,6 +2,7 @@
 <img width="590" height="352" alt="ezgif-cropped" src="https://github.com/user-attachments/assets/14dfed2d-3ce3-4a88-ab40-54fe89a58df7" />
 
 ## Shipping Metrics
+<img width="588" height="352" alt="ezgif-cropped (1)" src="https://github.com/user-attachments/assets/d48fbf6d-6679-4ab0-8aa6-b66c2081eac0" />
 
 ## Market Basket Analysis
 
